@@ -1,0 +1,14 @@
+D:\Programing\CodeWars\Fraction_\bin\Debug\net8.0\Fraction_.exe
+D:\Programing\CodeWars\Fraction_\bin\Debug\net8.0\Fraction_.deps.json
+D:\Programing\CodeWars\Fraction_\bin\Debug\net8.0\Fraction_.runtimeconfig.json
+D:\Programing\CodeWars\Fraction_\bin\Debug\net8.0\Fraction_.dll
+D:\Programing\CodeWars\Fraction_\bin\Debug\net8.0\Fraction_.pdb
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\Fraction_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\Fraction_.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\Fraction_.AssemblyInfo.cs
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\Fraction_.csproj.CoreCompileInputs.cache
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\Fraction_.dll
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\refint\Fraction_.dll
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\Fraction_.pdb
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\Fraction_.genruntimeconfig.cache
+D:\Programing\CodeWars\Fraction_\obj\Debug\net8.0\ref\Fraction_.dll
